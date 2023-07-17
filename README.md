@@ -1,4 +1,8 @@
 
+### 9. 글자 강조
+일반 **굵은글씨**  
+이텔릭체 *이텔릭*  
+
 ### 8. 이미지 넣기
 ![여름](https://github.com/zigoom/markdownTest/blob/main/abc.jpeg)
 
