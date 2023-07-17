@@ -1,4 +1,7 @@
 
+### 8. 이미지 넣기
+[여름](https://github.com/zigoom/markdownTest/blob/main/abc.jpeg)
+
 ### 7. 하이퍼 링크
 [PCWK](https://cafe.daum.net/pcwk)
 
